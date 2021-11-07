@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "Blanche",
+        "prix": 0.5
+    },
+    {
+        "id": "2",
+        "name": "Harissa",
+        "prix": 1
+    },
+    {
+        "id": "3",
+        "name": "Andalouse",
+        "prix": 0.5
+    },
+    {
+        "id": "4",
+        "name": "BBQ",
+        "prix": 1.5
+    },
+    {
+        "id": "5",
+        "name": "Ketchup",
+        "prix": 1
+    },
+    {
+        "id": "6",
+        "name": "Curry",
+        "prix": 1.5
+    }
+]

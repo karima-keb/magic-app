@@ -1,0 +1,68 @@
+.panier {
+    margin: 20px 100px;
+    padding: 20px 90px 70px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+.styled-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.styled-table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: center;
+}
+
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+}
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+
+.styled-table tbody tr.active-row {
+    font-weight: bold;
+    color: #009879;
+}
+
+.price {
+    padding: 10px;
+    background-color: #009879;
+    color: #ffffff;
+    width: 200px;
+    float: right;
+}
+
+.unitPrice {
+    padding: 10px;
+    background-color: #bebebe;
+    width: 200px;
+    font-weight: bold;
+}
+
+.ingredient {
+    background-color: #444444;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 3px;
+    color: #ffffff;
+    font-size: 12px;
+}
+
